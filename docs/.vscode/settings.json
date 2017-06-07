@@ -1,8 +1,0 @@
-// Place your settings in this file to overwrite default and user settings.
-{
-    "files.autoSave": "afterDelay",
-    "editor.formatOnType": true,
-    "editor.formatOnPaste": true,
-    "editor.mouseWheelZoom": true,
-    "files.autoSaveDelay": 5000
-}
